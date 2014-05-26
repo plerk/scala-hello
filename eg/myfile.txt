@@ -1,0 +1,232 @@
+phone woke me up. reporter daily star. "it's three o'clock morning" i moaned. parts of speach difficult. photographer. desire photographs taken. for interview. vaguely remember reporter from yesterday. mitch gitman. acknowledge affirmative. roll out of bed. stagger bathroom, drench self healing power of hot water. My eyes begin to see objects a little more distinctly and my memory is coming back on line. Yesterday a reporter had interviewed me about the Dorm network "ResComp" or as I like to refer to it "ResInComp." I turn the water off and start to towel off. I had directed him in the direction of an acquaintance Fydor and my friend Tyler, because they were like minded Internet Dorm Dwellers. Mitch had just called me up to ask if they could photograph me using the Internet. 
+
+I wonder why he called me up this early as I walk back into my room, when I notice that it is awfully bright in my room for 3:00am. I squint at my alarm clock and hit it with a clenched fist. It changes to 8:14am, which I assume means it is actually 8:04am, since I always set the thing ten minutes fast. 
+
+ The year is 1996. I am a sophomore living in La Paz on campus and I am majoring in Computer Science, because I am a computer geek, and have never known anything else. I go to the University of Arizona in Tucson where the air is hot and dry. My roommate is not in. He has a girlfriend he lives with, and I suspect that the whole dorm room thing solves a residency problem with the parents of his girlfriend. He has never in fact ever stayed in the room over night. This makes him the best kind of roommate really. He pays the bills, as it were, and is hardly ever around. 
+
+I sit down to my computer to check my e-mail and to arrange my desktop to "look like" Linux for when the photographer shows up. Somebody knocks on the door. It is the photographer from The Arizona Daily Star. She's a professional looking woman with a light kit and a Nikon FE, I can't quite make out the lens type. She apologizes for the early hour, but apparently the article is supposed to be in today's paper. 
+
+I am already beginning to find my thoughts more coherent. She takes a number of photographs of me sitting in front of the computer pretending to use it. This must be somewhat boring, because she then asks "Do you have a toothbrush?" 
+
+"Of course." 
+
+"Could you get it and pretend to brush your teeth." She asks. 
+
+"No problem."
+
+I feel slightly ridiculous, but here I am pretending to brush my teeth in front of my computer in my dorm room as a photographer records the event for posterity, or at least for the next edition of her paper. 
+
+"You see, the internet has made dorm life so convenient you can check your mail while you brush your teeth!" She explained the madness in her method. 
+
+Convenience would be having my own bathroom to brush my teeth in I think to myself. 
+
+When she is done, she thanks me and gives me her business card. I am not entirely sure why. I never actually got a card from Mitch because the interview had been over the phone, but I might actually have reason to call him, if I came across something newsworthy. 
+
+Nah... I thinks to myself nothing interesting enough to report in a paper ever happens to me. 
+
+The phone rings again. I pick it up, but this time it is Tyler. 
+
+"I think we can nail Phrog." he says. 
+
+"Oh?" I ask. "Yes?" 
+
+I take myself out of X Windows and bring up Quake so that I can connect to whatever server Tyler is on. I can hear exploding rockets over the phone. 
+
+"Yeah, he gave me his phone number." He explains. 
+
+"Idiot." I observe. 
+
+"So I had this idea, if we call up Dominos and ask for a pizza, and give them his phone number..." Tyler begins. 
+
+His plan becomes immediately apparent. Dominos on campus has this reverse phone number lookup system. They usually ask you for your phone number and they tell you your room number to confirm. 
+
+"So we Social Engineer Dominos into telling us where they live." 
+
+Social Engineering is where you pretend to be someone else to get someone to do something they shouldn't be doing for you, or give you information that they shouldn't really be giving out. 
+
+"Exactly." Tyler responds. 
+
+We meet outside the chemistry instructional building where there is a public phone. In those days public phones were more common than cell phones. It costs us a quarter and a dime, but we find out where 2HN is. 
+
+Tyler picked up the phone and dialed. "Hello? ... Yes I'd like to order a pizza... yeah five five five nine two oh three... Yup.... Wait a minute-hold on." Tyler pauses and half covers the receiver as if I was speaking to him and he feigns a question: "oh, you already ordered the pizza?" and then back into the phone: "never mind, our pie is already on the way." He hangs up and then to me: "we got them." 
+
+I should explain.
+
+Dactyl Fires a Rocket
+We have some pet Quakers. Not the religious ones, the ones who play the first person shooter Quake on the dorm network. Using their Ethernet addresses and a little old fashion know-how, we have been able to trace their screen names back to their real identities. It really spooked Ken Freeman out when I said "Hello Ken Freeman" using the say command. 
+
+He then asked "How do you know who I am?" 
+
+Someone else said: "It's a Patch." 
+
+"A Patch" in the parlance of our LAN apparently has nothing to do with modifying Quake server to alter the virtual environment in some way to improve player enjoyment - instead it is a magical thing hackers use to do magical hacker things. I suppose it irks me that there is no appreciation for the art form which involved in the information retrieval. 
+
+"They are in Huachuca then?" I ask. 
+
+He nods. 
+
+During some other virtual episode when we faced Phrog and his sidekick Master, they had gone on endlessly about how "2HN ruled." It was obviously an inside joke, but we had guessed that 2HN was short for the north side of the second floor of Huachuca hall in Kaibab-Huachuca dorm. 
+
+On the way over to KaiHow, I point out another dorm Scoranado and we reminisce about the time we compromised security there. See, technically you're not supposed to be in a dorm unless you live there, or if you are visiting a friend who lives there. To say that security was lax is to achieve a level of understatement that most people are not capable using standard issue dry wit. 
+
+When we get to KaiHow somebody dutifully holds the door open from us. The trick, I am certain, to sneaking into places you don't belong is having the confidence that you do belong. We headed right up to 2HN and found Phrog's room, the door was wide open. Ken Freeman (his real name) was sitting at his desk playing Quake with his back to us. Explosions and death curtailing screams rang out. Directly on the other side of the hall we saw Master's room. Again the door was open, and he was intently staring at the virtual violence, occasionally twitching the mouse or clicking a rocket barrage into existence. 
+
+"What do we do now?" I whisper. 
+
+"I'm not really sure." Tyler replied. "Most of the fun in this whole thing was just figuring out who they are. I can't think of any useful or fun thing to do now that we know." 
+
+I nodded: "well, we have to do something." 
+
+He snapped his fingers and started scribbling on Phrog's little white board with the felt tipped pen provided. He started writing the messages that Quake prints when you get killed, only he was using our screen names: 
+
+Phrog was ax-murdered by Dactyl
+Phrog chewed on Bengali's boomstick
+Phrog ate 2 loads of Dactyl's buckshot 
+
+I took Tyler's cue and write this on Master's white board: 
+
+Master sleeps with Phrog 
+
+This is only a slight bastardization of the suicide message you get when you drown in Quake: "so and so sleeps with the fishes." 
+
+Phrog was gibbed by Dactyl's grenade
+Phrog ate Bengali's grenade
+Phrog was nailed by Dactyl 
+
+"Come on, let's jet before they notice us." I whisper. 
+
+"Ok... just let me do one more." Tyler said before we turn tail and made our escape. 
+
+Phrog was punctured by Bengali 
+
+"We're out." I said as we left enemy territory. "That is going to freak them out big time." I was visibly relieved to be in the relative safety of not 2HN. Tyler kept his cool much better. I was soon distracted when I saw a paper vending machine. "Hey... look it's the Arizona Daily Star." 
+
+"Oh yeah, wasn't that article supposed to come out today?" Tyler asked. 
+
+"Let's see." I said and plopped a couple of coins into the machine and grabbed two copies of the paper, thinking Tyler might want his own copy.
+
+One of the photos the photographer had taken was at the top of the article. I had a pained look on my face (not sure why they choose that one) and I realize that this is my fifteen minutes of fame. It passed so quickly I didn't even notice. See how convenient ResComp is? You can brush your teeth whilst you surf the 'net! 
+
+Reading the article, I could see that Mitch Gitman had tried with out success to get me to say that I would be staying in the dorms next year because of the free high speed Internet access (mmmhmmm Ethernet). I wouldn't say it, because it wasn't true, but I had directed him in the general direction of Tyler who did say it for him. What Tyler hadn't said, again because it wasn't true, but was reported in the article anyway, is that he would be staying in Graham-Greenly in the same exact room for the third year in a row making him sound boring which is entirely unfair. I had used the interview as a platform to bad mouth ResComp, which was at best incompetent and at times corrupt and always irritating. In this particular instance I condemned them for blatant over generalizations regarding pertinent legal minutia in the area of copyrights and software. Naturally, my rhetoric was toned down in the printed article, but you could detect my distinctive anti-establishment character in my quotes published. Fydor of nmap fame also got interviewed for the piece, but wasn't featured as prominently. 
+
+We then decided to then head for liquid sector for "some sustenance." Liquid sector was so named because of the Carl's Jr. located there, and if you have seen the commercials, the name does not need to be explained. We went to Nagasaki Bowl, which was so dubbed because we could never remember its real name, and in spite on the politically incorrectness of our invented name (or maybe because of it) it seemed funny at the time. 
+
+While we were there, we built an improv sculpture out of our eating utensils which resembled a tank. Our blatant and politically incorrect disregard for the subtleties indifferent Asian cultures lead us to name the piece Tiananmen Square. 
+
+On our way back Tyler mused: "I wonder if we will run into Melly and her boyfriend on our way back again." Because it seemed we did every time we came back from Nagasaki. Her dorm, ManziMo was located in Liquid Sector. ManziMo was also where my alter ego Radon lived. I had a lot of alter egos in those days, so I had to spread their accommodations around to make room for all of them. 
+
+When we turned the next corner, we ran into Melly and Darrin. We chewed the fat for a while. Melly was looking hot. Darrin was mumbling something incoherent and uninteresting about a Quake bot he was working on designed to play Quake for him, because presumably it was too much effort to play himself. He rarely talked about (or I am guessing thought about) anything else. 
+
+We said our goodbyes, because they were headed for Nagasaki Bowl, from whence we had come. 
+
+Next stop was Shiny Sector and to look for music. When we got to The CD Despot, I looked for any Nine Inch Nails CDs I didn't already own, which was a futile exercise, since there weren't any I didn't own, and Tyler was scavenging in the used soundtracks bin for bargains when an employee noticed my T-Shirt. The shirt clearly read "CD Despot : Because Life Without Music Isn't Really Living." The proprietor had given me free of charge because Tyler had once said "You of all people should have that shirt" as I was making my umpteenth purchase there (they went out of business after I stopped shopping there... coincidence?). 
+
+"Dude... Living... Music... Without... Isn't... Life... Really..." he said, bungling the tagline, again, printed clearly, on my T-Shirt. 
+
+The Despot was sitting menacingly in the back of the room and snapped his fingers. Two thugs came out from the back and each grabbed one of the employee's shoulders. 
+
+"Hey Vinny, let's take this guy out back and teach this guy a lesson." One of them said to the other. 
+
+"You got it Vito." replied Vinny. 
+
+The two of them dragged him kicking and screaming into the back. 
+
+"I'm sorry about that. It won't happen again." said the Despot, devoid of emotion. 
+
+I left empty handed, but Tyler found a score or a soundtrack (I only vaguely understood the difference anyway) of some kind. We stopped by the union to watch a production of Mid Summer Night's Dream where the actors were dressed in 70s fashions. Oberon had a fro five foot in diameter. While there we ran into one of Tyler's neighbors from Graham-Greenly.
+
+Uncle Fatty
+The two of them were carping about the quality (or lack there of) of the production. I didn't have much to add to the critique, so I started talking about my old Uncle Fatty. That was a story I had invented and told people over the years. "He was a good pig." I would often say, "Tasted good too." I never made the pretense of actually trying to convince anyone that the story had any validity to it at all. Tyler was a good actor though. He made my story seem believable as we talked about it. Tyler's neighbor was so moved by the story that she tried to console me for the loss of a pet that I never had and had never eaten. 
+
+When we came out of the union, we could see wisps of smoke coming from Highland Ave, the street we all lived on. On closer inspection, part of Tyler's dorm, Graham-Greenly was on fire. Tyler's neighbor became hysterical. 
+
+"Ma'am, don't worry, we'll take care of this." I said; then to Tyler: "Shall we?" 
+
+"To the DacCave!" Tyler replied in a professional, but excited tone. 
+
+We raced up to my hacker's den. We logged onto the library computerized card catalog repeatedly, until it dumped us to a shell prompt. This was a hack Tyler, my young hacking apprentice, had figured out on his own. That got us behind the school's administrative firewall. In the past we had used the password pencil to change our grades from here. 
+
+
+
+
+This time, however, I logged onto the fire suppression system's mainframe to see why it had not put out the fire at Graham-Greenly. As it turned out, the computer had detected the fire, but it was a Windows box, so instead of putting it out, it had popped up a window which asked "Are you sure you want to put out the fire?" I clicked on "Yes" and the fire suppression system came on-line and put out the fire before it did any real damage. Nobody's room was damaged, although one stairwell was rendered unusable.
+	Click to download FireSupression version 1.27 software for your PC
+We were congratulating ourselves when there was a knock on the door. Tyler looked through the peephole and said "It's our pet Quakers, and they look pissed." 
+
+"How did they figure out where we were?" I asked, alarmed. 
+
+"I don't know," Tyler said, "but I know what to do." 
+
+And he did too. We hid my computer and I sat at my room mate Eric's computer, which happened to be a Mac. Then Tyler opened the door. 
+
+"Yes?" Tyler asked innocently. 
+
+"Oh damn it. They have a Mac" Phrog cursed. 
+
+"So?" Master asked. 
+
+"I_SUCK said they don't got no Quake on Mac." Phrog quipped. 
+
+I_SUCK, or Stephen Blinick was the only Quaker we had come across with any intelligence. As far as we knew he hadn't allied himself with Phrog and Master, although they may have gleaned something from conversing with him in the virtual arena of Quake. 
+
+Phrog then walked away without even saying hi to us. Tyler closed the door, and we breathed a collective sigh of relief. Then we heard someone opening the door. 
+
+"Oh no," I said, "They're back!" 
+
+But it was just my room mate Eric. He was here for his hour of Internet for the day. That was about the maximum amount of time he ever spent in our room. 
+
+"Hey, what happened to your computer?" He asked me. 
+
+"It was a long story" I replied, not answering. "I was in the paper today." I said and showed him my teeth brushing portrait. 
+
+"Hey, you can see my Mac in the background." He said. You could tell he was a little bit jealous. 
+
+Somebody knocked on the door. It was Todd. 
+
+"Dude..." he said, handing me a CD "My bastard child of Debian and Bill Gates burned Windows NT onto this Cheesy Media for you. Have you checked out BeOS yet?" 
+
+"Not yet." Tyler said, although "Never will" would have been more accurate. 
+
+The four of us started talking about our implementation of 8bit NetZelda, when there was another knock on the door. 
+
+"Who can it be now?" I gasped with annoyance. 
+
+"Maybe it's I_SUCK coming for his pizza." Tyler joked. In Quake, as Bengali, he had invited everyone to come over for pizza. Then he said "something to eat?!?!!" when someone suggested getting something to eat. Tyler always played Bengali kinda dumb, which was real smart. 
+
+"Can you see who it is Tyler?" I asked. I had sat down on the end of my bed and I was not much interested in standing up. 
+
+"It's a secret service guy. He's saying something about the president coming for a visit." Tyler said. 
+
+"Sure it is." I said. By now I had closed my eyes and was contemplating a nap. 
+
+"Hi. How are yr'all doin'." I heard someone say in an easily recognizable dry raspy Southern accent. I stood up with surprise, and sure enough there was President Clinton and couple of non-descript secret service officers, dark sun glasses, ear pieces and everything. 
+
+"Mr. President!" I stammered, but recovered, and said "I didn't think Arizona was a swing state." 
+
+Clinton had been in office for four years and he was running about the country trying to get himself re-elected. 
+
+"It's not, but I heard about how you stopped the fire down the street and I told them to turn Air Force One around." 
+
+"Uh-huh." 
+
+"I was just talking to the President of the university, and the regents have agreed to rename Graham-Greenly Graham-Graham in your honor." 
+
+"Ah. Well it's about time." I admitted. 
+
+"I hope I can count on your vote in November." 
+
+"Actually, I am not an American citizen, so you can't." 
+
+"I had better get back on the campaign trail then." 
+
+"I'm not going to vote for you." Eric said, uninvited and unnoticed. "I always vote against the incumbent because they don't have the incentive to work hard since they can't be re-elected a third term." 
+
+The secret service guys left us with some Clinton-Gore bumper stickers. Even if I had wanted to turn my car into a driving political advertisement, I didn't have a car. It was now 8:42pm. 
+
+"Well that is something you don't see everyday." Tyler said, underscoring the oddity of the day. 
+
+"Nope." I agreed. "Tyler, I feel like I forgot to do something today." 
+
+"Did you go to class?" 
+
+"That's it." I snapped my fingers, "I forgot to go to class."
