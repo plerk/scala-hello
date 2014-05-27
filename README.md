@@ -12,3 +12,5 @@ Hello world written in scala
   6. [moe](https://github.com/MoeOrganization/moe)
   7. [running sbt](http://www.scala-sbt.org/release/docs/Getting-Started/Running.html)
   8. [scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers)
+  9. [api](http://www.scala-lang.org/api/current/)
+  10. 
