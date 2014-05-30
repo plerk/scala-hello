@@ -1,4 +1,4 @@
-class Person(name : String) {
+class Person(name : String) extends Serializable {
 
   val (firstName, lastName) = {
     val a = name.split("""\s""")
