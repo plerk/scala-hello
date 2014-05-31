@@ -31,3 +31,19 @@ object Circle {
   def apply(p:Point, r:Double) = new Circle(p,r)
 }
 
+
+class OrderedPoint(_x:Int,_y:Int) extends java.awt.Point(_x,_y) with scala.math.Ordered[OrderedPoint] {
+  def compare(other:OrderedPoint) = 
+    if(x == other.x) 
+      y-other.y 
+    else
+      x-other.x
+      
+  override def toString =
+    "[%d,%d]".format(x,y)
+}
+
+object OrderedPoint {
+  def apply(x:Int,y:Int) =
+    new OrderedPoint(x,y)
+}
